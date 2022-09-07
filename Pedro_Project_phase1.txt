@@ -1,4 +1,4 @@
-Github Link: https://github.com/pedrov718/Pedro_Velazquez_INFO2950.git
+
 
 Idea 1: An analysis of shark attacks across the U.S possibly the world. The goal of this analysis would be to identify trends or variables that different encounters had in common. I will try to look at geographic location, weather, and possibly ocean currents/conditions i.e (temperature/tide conditions). 
 
