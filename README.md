@@ -13,3 +13,8 @@
 ### The top three countries with most shark attacks: 
 
 ![image](https://user-images.githubusercontent.com/82776178/204337238-d6f59f94-1da7-4463-b301-8d51c4698d0d.png)
+
+
+### Using a Logistic Regression Model with Cross Validation to predict Fatal and Not FatalL
+
+![image](https://user-images.githubusercontent.com/82776178/204337566-fdc75bf6-b3c2-4857-b55e-0b6673eb48d7.png)
