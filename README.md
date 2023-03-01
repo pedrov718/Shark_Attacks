@@ -1,4 +1,4 @@
-# Predicting the Porbability that a Shark Attack will be Fatal
+# Predicting the Probability that a Shark Attack will be Fatal
 
 ## Given Demographic Data of victims can you resonable predict who can survive an encounter with a shark?
 
@@ -15,6 +15,6 @@
 ![image](https://user-images.githubusercontent.com/82776178/204337238-d6f59f94-1da7-4463-b301-8d51c4698d0d.png)
 
 
-### Using a Logistic Regression Model with Cross Validation to predict Fatal and Not FatalL
+### Using a Logistic Regression Model with Cross Validation to predict Fatal and Non-Fatal enocunters
 
 ![image](https://user-images.githubusercontent.com/82776178/204337566-fdc75bf6-b3c2-4857-b55e-0b6673eb48d7.png)
